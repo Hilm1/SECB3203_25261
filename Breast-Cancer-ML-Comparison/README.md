@@ -7,7 +7,7 @@ Team Members:
 Project Overview
 This project is part of the SECB3203 Programming for Bioinformatics 2 course . It explores the use of machine learning to classify breast cancer masses as Malignant or Benign using the Wisconsin Diagnostic Dataset .
 
-The primary goal is to compare a baseline Logistic Regression model against a "tweaked" Support Vector Machine (SVM) model to determine how optimization affects diagnostic accuracy .
+The primary goal is to compare a baseline Logistic Regression model against a refined Support Vector Machine (SVM) model to determine how optimization affects diagnostic accuracy .
 
 Focus and Trends
 Topic: Prediction of cancer prognosis and classification .
